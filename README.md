@@ -58,6 +58,7 @@
 </details>
 
 ## Features 🌈
+##m By Mudassir Alam
 - 📃 Support for multiple pages
 - 🚦 Real-time status monitoring for each of your apps/links
 - 📊 Use widgets to display info and dynamic content from self-hosted services
